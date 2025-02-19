@@ -5,7 +5,7 @@ Download **Git** using https://git-scm.com/ and install
    
 ## 2. Set Up Git
 1. Configure your Git username and email using "git config --global user.name "Your Name"", then "git config --global user.email "your.email@example.com""
-2. To check your configuration: git --version
+2. To check your configuration with "git --version"
 
 ## 3. Install VS Code
 1. Download VS Code from https://code.visualstudio.com/ and install.
@@ -13,7 +13,7 @@ Download **Git** using https://git-scm.com/ and install
 ## 4. Set Up Git in VS Code
 1. Open VS Code and install the **GitHub Pull Requests and Issues** extension from the Extensions Marketplace.
 2. Open VS Code’s built-in terminal
-3. Navigate to your project folder: cd path/to/your/project
+3. Navigate to your project folder using "cd path/to/your/project"
 
 ## 5. Initialize a Git Repository
 1. Initialize a new **repository** using "git init"
