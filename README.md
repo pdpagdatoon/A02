@@ -47,7 +47,7 @@ Pull the latest changes before working with "git pull origin main"
 
 
 # Part 2
-Word Definitions
+## **Word Definitions** 
 **Branch** - A branch is a parallel version of a repository. 
 **Clone** - A copy of a repository that lives on your computer locally.\
 **Commit** - An individual change to a file and usually contain a commit message which is a brief description of what changes were made.\
